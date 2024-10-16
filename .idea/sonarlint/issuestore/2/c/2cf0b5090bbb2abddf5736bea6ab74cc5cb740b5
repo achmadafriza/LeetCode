@@ -1,0 +1,10 @@
+
+z	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(„¤Ï×øÿÿÿÿ8ÂÕÓ­¦2
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8ıÕÓ­¦2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ñù£–8ıÕÓ­¦2
+>	java:S131""Add a default case to this switch.(Ü§Àõ8ÿÕÓ­¦2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÿÕÓ­¦2

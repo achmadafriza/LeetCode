@@ -1,0 +1,13 @@
+
+l
+java:S1192%"JDefine a constant instead of duplicating this literal "authorize" 4 times.(¯†·‰üÿÿÿÿ8á§»Û2
+m
+java:S1301 "KReplace this "switch" statement by "if" statements to increase readability.(¸ìù«üÿÿÿÿ8á§»Û2
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Çä¦8™¨»Û2
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ôğïüÿÿÿÿ8™¨»Û2
+?
+java:S2386	"Make this member "protected".(¤øÆüÿÿÿÿ8™¨»Û2
+:
+java:S2386
+"Make this member "protected".(°öÀ³8™¨»Û2
+C	java:S131 ""Add a default case to this switch.(¸ìù«üÿÿÿÿ8¨»Û2

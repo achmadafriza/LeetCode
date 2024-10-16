@@ -1,0 +1,8 @@
+
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÒïÆÊ8»îÏšš2
+L	java:S106M"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8¾îÏšš2
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8¾îÏšš2
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¾îÏšš2

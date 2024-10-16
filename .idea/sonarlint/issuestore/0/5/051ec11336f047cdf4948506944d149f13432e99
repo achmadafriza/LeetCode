@@ -1,0 +1,11 @@
+
+r
+java:S1149
+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(‹ÁÆ¢ÿÿÿÿÿ8Õäş­¦2
+J	java:S108")Either remove or fill this block of code.(›£÷úÿÿÿÿ8×äş­¦2
+S
+java:S1128"1Remove this unused import 'java.util.ArrayDeque'.(†®ŞÖúÿÿÿÿ8Øäş­¦2
+N
+java:S1128",Remove this unused import 'java.util.Deque'.(³Ã¯¥şÿÿÿÿ8Øäş­¦2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8•¸ÿ­¦2
