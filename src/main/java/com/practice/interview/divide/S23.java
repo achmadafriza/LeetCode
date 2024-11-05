@@ -27,7 +27,7 @@ public class S23 {
         while (!queue.isEmpty()) {
             ListNode node = queue.poll();
 
-            curr.next = node;~
+            curr.next = node;
             curr = curr.next;
 
             if (node.next != null) {

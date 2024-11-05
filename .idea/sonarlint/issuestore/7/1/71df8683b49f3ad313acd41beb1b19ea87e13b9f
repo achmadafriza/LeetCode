@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è£ÙÖ8‡µï»¯2
+A
+java:S1659"$Declare "right1" on a separate line.(³©ƒÙ8†¶ï»¯2
+A
+java:S1659"$Declare "right2" on a separate line.(ï²™‡8†¶ï»¯2
+B
+java:S1659%" Declare "n2" on a separate line.(Þóƒ›ýÿÿÿÿ8‡¶ï»¯2
+t
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(à©–®ùÿÿÿÿ8‡¶ï»¯2
+B
+java:S16592" Declare "n2" on a separate line.(Þóƒ›ýÿÿÿÿ8ˆ¶ï»¯2
+Š
+java:S22344"hParameters to findMedianSortedArrays have the same names but not the same order as the method arguments.(—Ö Ãûÿÿÿÿ8ˆ¶ï»¯2
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8ˆ¶ï»¯2

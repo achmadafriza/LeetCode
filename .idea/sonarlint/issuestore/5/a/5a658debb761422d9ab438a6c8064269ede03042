@@ -1,0 +1,10 @@
+
+L
+java:S1066"/Merge this if statement with the enclosing one.(­šÆ›8ìÄ—¶¯2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è£ÙÖ8íÄ—¶¯2
+t
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Å²Åßøÿÿÿÿ8¿¤·¶¯2
+t
+java:S3776m"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(å¯°æýÿÿÿÿ8³¦Æ¶¯2
+D
+java:S1659n""Declare "high" on a separate line.(ö´«¦ùÿÿÿÿ8´¦Æ¶¯2
